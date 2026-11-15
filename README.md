@@ -19,8 +19,11 @@ The infrastructure will also provide essential network services, including
 The project covers four main areas:
 
 1.Cisco Switch Configuration: Configure important switch settings to provide a secure and functional network environment.
+
 2.Network Design: Develop a topology containing a Cisco router, Cisco switch, five departmental networks, servers, computers, and network printers.
+
 3.Server Deployment: Configure DHCP pools, DNS records, domain services, and staff email accounts.
+
 4.Testing and Verification: Confirm DHCP addressing, inter-department connectivity where permitted, printer accessibility, DNS resolution, and successful email communication.
 
 # 🎯 Objectives:
